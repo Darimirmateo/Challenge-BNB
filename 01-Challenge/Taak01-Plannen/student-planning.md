@@ -6,8 +6,6 @@
 
 > :rocket: TIP3: Raakt de tabel rommelig in het brondocument? Klik met je rechter muisknop in de tabel en kies je voor `Format Document` of, als je cursor in de tabel staat, druk op <kbd>SHIFT</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd>
 
-----
-
 ## Planning tabel
 
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
