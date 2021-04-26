@@ -13,14 +13,14 @@
 | Stap        | Taak                                           | Verwachte tijdsduur | Status |
 | ----------- | ---------------------------------------------- | ------------------- | ------ |
 | Planning    | Planning maken                                 | 00:30 u             | Bezig  |
-| Ontwerpen   | Mockup van BNB-site maken                      |                     |        |
-| ...         | Styling van elementen bepalen                  |                     |        |
-| Realiseren  | Bestanden aanmaken                             |                     |        |
+| Ontwerpen   | Mockup van BNB-site maken                      | 03:00 u             | Bezig  |
+| ...         | Styling van elementen bepalen                  | 01:00 u             | Bezig  |
+| Realiseren  | Bestanden aanmaken                             | 00:30 u             | Bezig  |
 | ...         |                                                |                     |        |
-| Testen      | Applicatie testen                              |                     |        |
+| Testen      | Applicatie testen                              | 00:10 min           | starten|
 | ...         |                                                |                     |        |
-| Verbeteren  | Problemen gevonden tijdens het testen oplossen |                     |        |
+| Verbeteren  | Problemen gevonden tijdens het testen oplossen | 00:30 min           | starten|
 | ...         |                                                |                     |        |
-| Presenteren |                                                |                     |        |
+| Presenteren | Applicatie                                     | 00:15 min           | starten|
 | ...         |                                                |                     |        |
-| Refecteren  | Reflectiedocument schrijven                    |                     |        |
+| Refecteren  | Reflectiedocument schrijven                    | 00:30 min           | starten|
