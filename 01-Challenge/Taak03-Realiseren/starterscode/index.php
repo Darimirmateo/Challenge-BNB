@@ -9,6 +9,10 @@ $database_gegevens = null;
 $poolIsChecked = false;
 $bathIsChecked = false;
 
+$database_gegevens = "1";
+$poolIsChecked = true;
+$bathIsChecked = true;
+
 $sql = ""; //Selecteer alle huisjes uit de database
 
 if (isset($_GET['filter_submit'])) {
